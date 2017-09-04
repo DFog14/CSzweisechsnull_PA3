@@ -1,7 +1,7 @@
 # CSzweisechsnull_PA3
 
-Q1:
-Q2:
+Q1: Bryan. Almost
+Q2: Bryan. Almost
 Q3:
 Q4: Dallas. Finished
 Q5:
