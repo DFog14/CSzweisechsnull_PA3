@@ -2,7 +2,7 @@
 
 Q1: Bryan. Almost
 Q2: Bryan. Almost
-Q3:
+Q3: Malik. Finished
 Q4: Dallas. Finished
 Q5:
 Q6:
