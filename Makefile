@@ -1,21 +1,11 @@
-.PHONY: clean
+all: closed-delete.csv closed-insert.csv open-delete.csv open-insert.csv
 
-all : openhash closedhash bst trie pot floyd dfs clean
+closed-delete.csv closed-insert.csv: closedhash.py
+	python closedhash.py
 
-openhash:
-	@python openhash.py
-closedhash:
-	@python closedhash.py
-bst:
-	@python bst.py
-trie:
-	@python trie.py
-pot:
-	@python pot.py
-floyd:
-	@python floyd.py
-dfs:
-	@python dfs.py
+open-delete.csv open-insert.csv: openhash.py
+	python openhash.py
 
 clean:
-	@\rm -f *.pyc
+	rm -f closed-delete.csv closed-insert.csv open-delete.csv open-insert.csv
+
