@@ -3,7 +3,7 @@ Members: Malik Goodridge, Bryan Chen, Dallas Foglia
 
 Q1: Bryan. Finished
 
-Q2:
+Q2: Bryan. Finished
 
 Q3: Malik. Finished
 
