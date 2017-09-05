@@ -1,4 +1,5 @@
 # CSzweisechsnull_PA3
+Members: Malik Goodridge, Bryan Chen, Dallas Foglia
 
 Q1: Bryan. Finished
 Q2: 
